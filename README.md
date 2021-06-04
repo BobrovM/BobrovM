@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BobrovM
+- 👀 I’m interested in Game Industry
+- 🌱 I’m currently learning C++ in Unreal Engine 4/5
+- 💞️ I’m looking for an internship, preferably in Moscow
+- 📫 How to reach me @officeguyyt@gmail.com
