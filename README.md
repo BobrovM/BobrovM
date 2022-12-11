@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikhail Bobrov
+- 👋 Hi, I’m Mikhail Bobrov, Moscow born Male
 - 👀 I’m interested in VFX, Game Industry and Python (WebDev, Data Science, Machine Learning, AI)
 - 🌱 I’m currently learning Houdini, Python
 - 💞️ I’m currently looking for any opportunity for an english-speaking internship in Marseille, France.
