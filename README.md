@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mikhail Bobrov
-- 👀 I’m interested in Game Industry
-- 🌱 I’m currently learning C++ in Unreal Engine 4/5
-- 💞️ I’m looking for an internship, preferably in Moscow
+- 👀 I’m interested in VFX, Game Industry and Python (WebDev, Data Science, Machine Learning, AI)
+- 🌱 I’m currently learning Houdini, Python
+- 💞️ I’m currently looking for any opportunity for an english-speaking internship in Marseille, France.
 - 📫 How to reach me @officeguyyt@gmail.com
