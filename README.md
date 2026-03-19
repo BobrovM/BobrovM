@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikhail Bobrov, Moscow born Male
 - 👀 I’m interested in VFX, Game Industry and Python (WebDev, Data Science, Machine Learning, AI)
-- 🌱 I’m currently learning Python coding, Houdini and Blender in VFX.
-- I am also a student in NUST MISiS and getting my banchelors degree in Applied Informatics in Design (2020-2025).
-- 💞️ I’m currently looking for any opportunity for an english-speaking job or internship in Marseille, France. 
+- 🌱 I’m currently refreshing Python coding, since I dropped actively investing my time in it in 2022-2023.
+- I am also a student in NUST MISiS, got my banchelors degree in Applied Informatics in Design (2020-2025), right now studing for masters degree called BIM in design and construction (2025-2027).
+- 💞️ I will be open for job/internship offers when I feel I'm ready.
 - 📫 How to reach me: mikhail.bobrov.work@gmail.com
