@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mikhail Bobrov, Moscow born Male
-- 👀 I’m interested in VFX, Game Industry and Python (WebDev, Data Science, Machine Learning, AI)
-- 🌱 I’m currently refreshing Python coding, since I dropped actively investing my time in it in 2022-2023.
-- I am also a student in NUST MISiS, got my banchelors degree in Applied Informatics in Design (2020-2025), right now studing for masters degree called BIM in design and construction (2025-2027).
-- 💞️ I will be open for job/internship offers when I feel I'm ready.
-- 📫 How to reach me: mikhail.bobrov.work@gmail.com
+Currently getting into Data Engineering field, interested in big data.
+
+I have Bac+4 in Applied IT finished 2025, learning fot masters+2 in "Bim in design and construction"
+
+Past job experience: 3D modeling game ready props, VFX in Side Fx Houdini, Unreal Engine with git version control for cinematics and interactive installations, BIM audit.
